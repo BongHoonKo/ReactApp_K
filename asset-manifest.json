@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactApp_K/static/css/main.8d632a86.chunk.css",
-    "main.js": "/ReactApp_K/static/js/main.838d27f7.chunk.js",
-    "main.js.map": "/ReactApp_K/static/js/main.838d27f7.chunk.js.map",
+    "main.css": "/ReactApp_K/static/css/main.fadb6e32.chunk.css",
+    "main.js": "/ReactApp_K/static/js/main.d88d08cf.chunk.js",
+    "main.js.map": "/ReactApp_K/static/js/main.d88d08cf.chunk.js.map",
     "runtime-main.js": "/ReactApp_K/static/js/runtime-main.c25b49b6.js",
     "runtime-main.js.map": "/ReactApp_K/static/js/runtime-main.c25b49b6.js.map",
-    "static/js/2.616f3130.chunk.js": "/ReactApp_K/static/js/2.616f3130.chunk.js",
-    "static/js/2.616f3130.chunk.js.map": "/ReactApp_K/static/js/2.616f3130.chunk.js.map",
+    "static/js/2.d94ce23c.chunk.js": "/ReactApp_K/static/js/2.d94ce23c.chunk.js",
+    "static/js/2.d94ce23c.chunk.js.map": "/ReactApp_K/static/js/2.d94ce23c.chunk.js.map",
     "index.html": "/ReactApp_K/index.html",
-    "precache-manifest.5e14be281f6a9354fcc1ecb25af299f4.js": "/ReactApp_K/precache-manifest.5e14be281f6a9354fcc1ecb25af299f4.js",
+    "precache-manifest.ac2239d6bab83f7aa4eb1cdbb086ae5b.js": "/ReactApp_K/precache-manifest.ac2239d6bab83f7aa4eb1cdbb086ae5b.js",
     "service-worker.js": "/ReactApp_K/service-worker.js",
-    "static/css/main.8d632a86.chunk.css.map": "/ReactApp_K/static/css/main.8d632a86.chunk.css.map",
+    "static/css/main.fadb6e32.chunk.css.map": "/ReactApp_K/static/css/main.fadb6e32.chunk.css.map",
     "static/media/AAA-detail.jpg": "/ReactApp_K/static/media/AAA-detail.de5d2257.jpg",
     "static/media/AAA.jpg": "/ReactApp_K/static/media/AAA.a44a1bb1.jpg",
     "static/media/APAN-detail.png": "/ReactApp_K/static/media/APAN-detail.327879ef.png",
@@ -23,6 +23,12 @@
     "static/media/curtureland.jpg": "/ReactApp_K/static/media/curtureland.b889cb00.jpg",
     "static/media/gongjak-detail.jpg": "/ReactApp_K/static/media/gongjak-detail.746aa73e.jpg",
     "static/media/gongjak.jpg": "/ReactApp_K/static/media/gongjak.766955e6.jpg",
+    "static/media/guide-giftcard.png": "/ReactApp_K/static/media/guide-giftcard.4f8d5eae.png",
+    "static/media/guide-kst.png": "/ReactApp_K/static/media/guide-kst.a1f30faf.png",
+    "static/media/guide-reserv.png": "/ReactApp_K/static/media/guide-reserv.7b2820cd.png",
+    "static/media/guide-signup.png": "/ReactApp_K/static/media/guide-signup.1a1df0b7.png",
+    "static/media/guide-v.png": "/ReactApp_K/static/media/guide-v.e8fd9f8a.png",
+    "static/media/guide-wallet.png": "/ReactApp_K/static/media/guide-wallet.a41647ed.png",
     "static/media/header-banner.jpg": "/ReactApp_K/static/media/header-banner.1263983c.jpg",
     "static/media/img-banner.png": "/ReactApp_K/static/media/img-banner.32bbe339.png",
     "static/media/img-banner.jpg": "/ReactApp_K/static/media/img-banner.9074b721.jpg",
@@ -47,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c25b49b6.js",
-    "static/js/2.616f3130.chunk.js",
-    "static/css/main.8d632a86.chunk.css",
-    "static/js/main.838d27f7.chunk.js"
+    "static/js/2.d94ce23c.chunk.js",
+    "static/css/main.fadb6e32.chunk.css",
+    "static/js/main.d88d08cf.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "181d7231d2dea516493066c5160bb2bc",
+    "revision": "d2be27b5d49173c9e6a43979d8338aa0",
     "url": "/ReactApp_K/index.html"
   },
   {
-    "revision": "1d22ba3fee3e48c2c238",
-    "url": "/ReactApp_K/static/css/main.8d632a86.chunk.css"
+    "revision": "3cb7199ed0565e643652",
+    "url": "/ReactApp_K/static/css/main.fadb6e32.chunk.css"
   },
   {
-    "revision": "f77ad03eac8e76e6f974",
-    "url": "/ReactApp_K/static/js/2.616f3130.chunk.js"
+    "revision": "58c74d31928f748f70c3",
+    "url": "/ReactApp_K/static/js/2.d94ce23c.chunk.js"
   },
   {
-    "revision": "1d22ba3fee3e48c2c238",
-    "url": "/ReactApp_K/static/js/main.838d27f7.chunk.js"
+    "revision": "3cb7199ed0565e643652",
+    "url": "/ReactApp_K/static/js/main.d88d08cf.chunk.js"
   },
   {
     "revision": "7ad33975fa7b29d456a2",
@@ -98,6 +98,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "766955e6232ebfe078bfd2fa9afe44db",
     "url": "/ReactApp_K/static/media/gongjak.766955e6.jpg"
+  },
+  {
+    "revision": "4f8d5eaef01fcecec91036080af011f3",
+    "url": "/ReactApp_K/static/media/guide-giftcard.4f8d5eae.png"
+  },
+  {
+    "revision": "a1f30fafae6f52b6f6fe3d345ef1ced8",
+    "url": "/ReactApp_K/static/media/guide-kst.a1f30faf.png"
+  },
+  {
+    "revision": "7b2820cdeb8d4126d103085d41f2a2a0",
+    "url": "/ReactApp_K/static/media/guide-reserv.7b2820cd.png"
+  },
+  {
+    "revision": "1a1df0b7dda2e8544be2af430404a592",
+    "url": "/ReactApp_K/static/media/guide-signup.1a1df0b7.png"
+  },
+  {
+    "revision": "e8fd9f8ab9e39ccee90a4c3633b49fac",
+    "url": "/ReactApp_K/static/media/guide-v.e8fd9f8a.png"
+  },
+  {
+    "revision": "a41647ed7232ff45de31604dede417c8",
+    "url": "/ReactApp_K/static/media/guide-wallet.a41647ed.png"
   },
   {
     "revision": "1263983c71672d98838e2a275f943126",
