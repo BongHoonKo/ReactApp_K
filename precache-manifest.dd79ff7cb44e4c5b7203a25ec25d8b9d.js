@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f5a77100646336dc21f1c6dd1047796",
+    "revision": "bacfe19cfcd1c153834d1c4bf111adbb",
     "url": "/ReactApp_K/index.html"
   },
   {
-    "revision": "47cc6524dd21bfb5ab2e",
-    "url": "/ReactApp_K/static/css/main.df304f5a.chunk.css"
+    "revision": "5c957d16485670123940",
+    "url": "/ReactApp_K/static/css/main.ac63b680.chunk.css"
   },
   {
-    "revision": "3315342a54d5c78cd0f0",
-    "url": "/ReactApp_K/static/js/2.c8e5e0e2.chunk.js"
+    "revision": "692a01b96703600cb471",
+    "url": "/ReactApp_K/static/js/2.6297b87e.chunk.js"
   },
   {
-    "revision": "47cc6524dd21bfb5ab2e",
-    "url": "/ReactApp_K/static/js/main.068b5566.chunk.js"
+    "revision": "5c957d16485670123940",
+    "url": "/ReactApp_K/static/js/main.8af0572d.chunk.js"
   },
   {
     "revision": "7ad33975fa7b29d456a2",
@@ -182,6 +182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "12b5a2a6477ebd4de7f8f1462cb7be3d",
     "url": "/ReactApp_K/static/media/ksl2.12b5a2a6.jpg"
+  },
+  {
+    "revision": "75184202536ed9b6c74c88692163133e",
+    "url": "/ReactApp_K/static/media/map.75184202.png"
   },
   {
     "revision": "50c39eb9d0e7037d319386cf1c648629",
