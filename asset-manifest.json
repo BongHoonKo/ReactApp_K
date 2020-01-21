@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactApp_K/static/css/main.472c866a.chunk.css",
-    "main.js": "/ReactApp_K/static/js/main.25ab7d2f.chunk.js",
-    "main.js.map": "/ReactApp_K/static/js/main.25ab7d2f.chunk.js.map",
-    "runtime-main.js": "/ReactApp_K/static/js/runtime-main.c25b49b6.js",
-    "runtime-main.js.map": "/ReactApp_K/static/js/runtime-main.c25b49b6.js.map",
-    "static/js/2.fa04e398.chunk.js": "/ReactApp_K/static/js/2.fa04e398.chunk.js",
-    "static/js/2.fa04e398.chunk.js.map": "/ReactApp_K/static/js/2.fa04e398.chunk.js.map",
+    "main.css": "/ReactApp_K/static/css/main.f7f5e240.chunk.css",
+    "main.js": "/ReactApp_K/static/js/main.610b0b7a.chunk.js",
+    "main.js.map": "/ReactApp_K/static/js/main.610b0b7a.chunk.js.map",
+    "runtime-main.js": "/ReactApp_K/static/js/runtime-main.f2b23db8.js",
+    "runtime-main.js.map": "/ReactApp_K/static/js/runtime-main.f2b23db8.js.map",
+    "static/js/2.b09ca965.chunk.js": "/ReactApp_K/static/js/2.b09ca965.chunk.js",
+    "static/js/2.b09ca965.chunk.js.map": "/ReactApp_K/static/js/2.b09ca965.chunk.js.map",
     "index.html": "/ReactApp_K/index.html",
-    "precache-manifest.6ddfb1a42fb99acc6b75c9f6142d4053.js": "/ReactApp_K/precache-manifest.6ddfb1a42fb99acc6b75c9f6142d4053.js",
+    "precache-manifest.42a3a2a0fffc470b8173608ec86da04a.js": "/ReactApp_K/precache-manifest.42a3a2a0fffc470b8173608ec86da04a.js",
     "service-worker.js": "/ReactApp_K/service-worker.js",
-    "static/css/main.472c866a.chunk.css.map": "/ReactApp_K/static/css/main.472c866a.chunk.css.map",
+    "static/css/main.f7f5e240.chunk.css.map": "/ReactApp_K/static/css/main.f7f5e240.chunk.css.map",
+    "static/js/2.b09ca965.chunk.js.LICENSE": "/ReactApp_K/static/js/2.b09ca965.chunk.js.LICENSE",
     "static/media/AAA-detail.jpg": "/ReactApp_K/static/media/AAA-detail.de5d2257.jpg",
     "static/media/AAA.jpg": "/ReactApp_K/static/media/AAA.a44a1bb1.jpg",
     "static/media/APAN-detail.png": "/ReactApp_K/static/media/APAN-detail.327879ef.png",
@@ -53,9 +54,9 @@
     "static/media/top-banner.jpg": "/ReactApp_K/static/media/top-banner.e69e1537.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c25b49b6.js",
-    "static/js/2.fa04e398.chunk.js",
-    "static/css/main.472c866a.chunk.css",
-    "static/js/main.25ab7d2f.chunk.js"
+    "static/js/runtime-main.f2b23db8.js",
+    "static/js/2.b09ca965.chunk.js",
+    "static/css/main.f7f5e240.chunk.css",
+    "static/js/main.610b0b7a.chunk.js"
   ]
 }
